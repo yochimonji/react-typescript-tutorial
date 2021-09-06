@@ -29,7 +29,6 @@ module.exports = {
       2,
       { extensions: [".js", ".jsx", ".ts", ".tsx"] },
     ],
-    "arrow-body-style": ["error", "always"],
     "import/extensions": [
       "error",
       {
